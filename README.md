@@ -113,42 +113,6 @@ POST /api/tasks
 - CORS
 - JSON (armazenamento)
 
-## 💾 Dependências
 
-**Backend:**
-- express: ^4.18.2
-- cors: ^2.8.5
-- nodemon: ^3.0.1 (dev)
 
-## 🔧 Configuração do Ambiente
 
-1. **Clone ou baixe o projeto**
-2. **Crie um arquivo `.env` (opcional):**
-```
-PORT=3000
-```
-
-3. **Instale as dependências do backend:**
-```bash
-cd backend && npm install
-```
-
-## 📖 Próximas Melhorias
-
-- [ ] Autenticação de usuários
-- [ ] Banco de dados (MongoDB/PostgreSQL)
-- [ ] Testes automatizados
-- [ ] Deploy na nuvem
-- [ ] Aplicação mobile
-
-## 👥 Autores
-
-Desenvolvido como parte da atividade de Engenharia de Software.
-
-## 📄 Licença
-
-MIT License
-
----
-
-**Entrega:** 2 semanas 📅
